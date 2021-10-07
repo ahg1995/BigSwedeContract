@@ -2,9 +2,9 @@
 This is the official source code of BigSwede project @ https://bigswedetoken.com
 
 
-##############
-#INTRODUCTION#
-##############
+
+INTRODUCTION
+
 Deep in the Swedish woods lives the king of the forest, BigSwede. A great moose with a big crown protecting his surroundings
 and nature. BigSwede has started to notice that people don’t care enough about our climate and have started to become furious
 about the people of the world not doing enough to keep the planet sustainable.
